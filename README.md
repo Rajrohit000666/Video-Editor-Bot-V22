@@ -30,7 +30,7 @@
 - [X] Log Channel Added
 
 ### Deploy on Heruko
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Doctorstra/Video-Editor-Bot-V22)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajrohit000666/Video-Editor-Bot-V22)
 
 
 ### Deploy on Railway
@@ -47,7 +47,7 @@
 
 #### The Hard Way 🤕
 ```sh
-git clone https://github.com/Doctorstra/Video-Editor-Bot-V22)
+git clone https://github.com/Rajrohit000666/Video-Editor-Bot-V22)
 
 cd Video-Editor-Bot-V22
 virtualenv -p python3 VENV
@@ -59,9 +59,9 @@ python3 bot.py
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/Doctorstra"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Rajrohit000666"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 
 LICENSE:
 
-[GNU Affero General Public License v3.0](https://github.com/Doctorstra/Video-Editor-Bot-V22/blob/main/LICENSE)
+[GNU Affero General Public License v3.0](https://github.com/Rajrohit000666/Video-Editor-Bot-V22/blob/main/LICENSE)
